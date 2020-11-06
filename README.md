@@ -13,6 +13,3 @@ I was bored
 
 ### Is it fast?
 It's written in pure python, and hasn't been profiled...I'm going to wager probably not as fast as it should be
-
-### Is a FAQs section necessary if you're just going to ask and answer rhetiorical questions?
-hmmmmmmmmm...
