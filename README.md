@@ -5,11 +5,3 @@
 It's an implementation of the following blog, after not being able to find an existing open source alternative:
 
 http://stevehanov.ca/blog/?id=114
-
-# FAQs
-
-### Why did you make this?
-I was bored
-
-### Is it fast?
-It's written in pure python, and hasn't been profiled...I'm going to wager probably not as fast as it should be
